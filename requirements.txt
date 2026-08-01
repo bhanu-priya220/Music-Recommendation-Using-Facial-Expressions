@@ -1,0 +1,13 @@
+numpy
+opencv-python
+tensorflow
+keras
+scikit-learn
+scipy
+matplotlib
+pandas
+librosa
+pyAudioAnalysis
+hmmlearn
+simplejson
+eyed3
